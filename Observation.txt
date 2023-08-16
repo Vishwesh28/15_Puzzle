@@ -1,0 +1,9 @@
+Observations
+Firstly this code helped me alot to understand things. 
+I understood fltk very well, to tell my difficulties, there were many difficulties untill I reach the final code 
+- Firstly I was unable to change the label of other buttons so I decided to declare buttons as global.
+- Then after developing I understood one more thing that I was just swapping but not sliding the buttons so then I used for loop.
+- Later one more issue I faced was that I was just labelling the buttons according to their positions but not the movement so for every button I kept kinda house number and whenever the button is moved first I labelled the adjecent button blank and then labelled the earlier blank one with the house number of adjecent and then copied the house number of adjecent to earlier blank one.  
+So I learned to how to step by step update the code.
+In fltk developing a fully functional game is really great experience and helped me building up my confidence.
+Up to now I'm pretty much good regarding topics.
